@@ -1,0 +1,3 @@
+Ainda não tinha pensado nisto, mas uma vez que a Apple vai passar a usar a sua própria aplicação de mapas (portanto deixando para trás os mapas da Google), não vai haver street view quando fizermos upgrade para o iOS 6.
+
+É pena, pois é uma funcionalidade que eu não uso todos os dias mas que muitas vezes dá jeito. E parece-me estar fora de questão a Apple vir a ter algo parecido, pelo menos nos próximos tempos.
